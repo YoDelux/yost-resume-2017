@@ -11,6 +11,7 @@ and comparative modeling techniques, using ORNL High Performance Computing (HPC)
 possible structure and function of hypothetical genes in microorganisms. Publication citation attached.
 Bachelor's Degree – Biochemistry Cellular and Molecular Biology December 1999
 University of Tennessee, Knoxville
+
 SKILLS
 Experience using Bioinformatics tools and genome databases for analysis of genome sequence data. Answered
 HPC help ticket questions on topics including installing and compiling software, job submissions (PBS) and
@@ -19,6 +20,7 @@ computing. Website development, build/manage sandbox LAMP server, Unix/Linux, PE
 C++, SVN, Git, Pascal, Javascript, CSS, PHP, HTML, Drupal, Wordpress, Apache server, LaTeX, LIMS,
 SharePoint, Adobe suite, wiki, QuickTime Pro, parallel computing, VISIT and VTK visualization tools,
 CAVEAT, Insight.
+
 EMPLOYMENT
 National Institute for Computational Sciences March 1, 2009 – April 30, 2015
 University of Tennessee
@@ -41,12 +43,14 @@ for UT groups on campus and in local public schools. Worked on planning and impl
 JICS and NICS hosted conferences and for the annual SC (SuperComputing) conferences. Mentored and
 developed projects for visiting high school students. Developed an interdisciplinary student partnership project
 between NICS and the UT Art Department in collaboration with Carolyn Staples and Norman Magden.
+
 PUBLICATIONS:
 Christal Yost, Loren Hauser, Frank Larimer, Dorothea Thompson, Alexander Beliaev, Jizhong Zhou, Ying Xu,
 and Dong Xu. A computational study of Shewanella oneidensis MR-1: Structural prediction and functional
 inference of hypothetical proteins. OMICS. 7:177-192. 2003
 Amy F. Szczepanski, Christal Yost, Norman Magden, Evan Meaney, Carolyn I. Staples: Opposites attract:
 computational and quantitative outreach through artistic expressions. XSEDE 2013: 68
+
 TECHNICAL TRAININGS
 PMBOK, Project Management Certificate Program, UT, 2014
 NSF grant writing workshop and NSF training “Science –Becoming the Messenger”, 2012
