@@ -22,6 +22,9 @@ SharePoint, Adobe suite, wiki, QuickTime Pro, parallel computing, VISIT and VTK 
 CAVEAT, Insight.
 
 EMPLOYMENT
+Wired Software Development   April 30, 2015 - present
+Independent freelance software developoment for web applications
+
 National Institute for Computational Sciences March 1, 2009 – April 30, 2015
 University of Tennessee
 Information Specialist
