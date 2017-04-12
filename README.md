@@ -22,6 +22,7 @@ SharePoint, Adobe suite, wiki, QuickTime Pro, parallel computing, VISIT and VTK 
 CAVEAT, Insight.
 
 EMPLOYMENT
+
 Wired Software Development   April 30, 2015 - present
 Independent freelance software developoment for web applications
 
